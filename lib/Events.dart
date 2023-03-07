@@ -69,6 +69,7 @@ class _EventState extends State<Event> {
                     ),
                   ),
                 ),
+
                 Image.asset(
                   'assets/Post.png',
                   width: width * 0.4,
